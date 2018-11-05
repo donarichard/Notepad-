@@ -1,6 +1,5 @@
-![notepad readme]()
 
-A simple, bare-bones, no-frills note taking app
+A note taking app
 
 ## Features
 
