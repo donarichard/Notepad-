@@ -1,4 +1,4 @@
-![notepad readme](https://user-images.githubusercontent.com/36028424/39695245-83b15cfc-521c-11e8-935c-c4a9cdcfbe90.png)
+![notepad readme]()
 
 A simple, bare-bones, no-frills note taking app
 
@@ -49,12 +49,4 @@ Ctrl+H: Share
 [<img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png"
       alt="Google Play"
       height="80"
-      align="middle">](https://play.google.com/store/apps/details?id=com.farmerbb.notepad)
-[<img src="https://f-droid.org/badge/get-it-on.png"
-      alt="F-Droid"
-      height="80"
-      align="middle">](https://f-droid.org/packages/com.farmerbb.notepad/)
-&nbsp;&nbsp;&nbsp;[<img src="https://images-na.ssl-images-amazon.com/images/G/01/mobile-apps/devportal2/res/images/amazon-appstore-badge-english-black.png"
-      alt="Amazon Appstore"
-      height="55"
-      align="middle">](https://www.amazon.com/Braden-Farmer-Notepad/dp/B00KZ79H3O/)
+      align="middle">](https://play.google.com/store/apps/details?id=com.ADdevelopers.notepad&hl=en)
